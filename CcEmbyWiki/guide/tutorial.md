@@ -109,7 +109,12 @@
   </div>
   点播功能：
   1.求片（响应快，入库快）
+
   2.下载（消耗积分下载）
+
+  ①求片站点添加订阅由mp进行搜索下载，自动化进行下载。
+
+  ②bot自行搜索选择下载，速度快。
   <div margin-align="center">
     <img src="/assets/点播1.png" style="width:100%; max-width:600px;" />
   </div>
@@ -162,10 +167,8 @@
     <img src="/assets/求片1.png" style="width:100%; max-width:600px;" />
   </div>
   2.网站求片
-
   求片入口：[@求片](https://create.startednow.org)
 
-  这里是求片的方法。
 
   
 </details>

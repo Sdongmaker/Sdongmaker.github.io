@@ -8,6 +8,8 @@ export default {
       ],
       sidebar: {
         '/guide/': [
+          { text: '   ', link: '' },
+          { text: '   ', link: '' },
           { text: 'Emby 初体验', link: '/guide/emby-intro' },
           { text: '如何注册与保持', link: '/guide/registration' },
           { text: '使用教程', link: '/guide/tutorial' },
