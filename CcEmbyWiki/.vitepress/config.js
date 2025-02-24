@@ -4,7 +4,19 @@ export default {
     themeConfig: {
       nav: [
         { text: '首页', link: '/' },
-        { text: '使用手册', link: '/guide/tutorial' }
+        {
+          text: '起点站附属项目',
+          items: [
+            {
+              text: '起点机场',
+              link: '/column/Travel/' // 表示docs/column/Travel/index.md
+            },
+            {
+              text: '起点私服',
+              link: '/column/Growing/' // 表示docs/column/Growing/index.md
+            }
+          ]
+        },
       ],
       sidebar: {
         '/guide/': [
