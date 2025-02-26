@@ -1,6 +1,7 @@
 export default {
   title: '起点站 Wiki',
   description: '基于 VitePress 的 起点站 文档站点',
+  base: '/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
