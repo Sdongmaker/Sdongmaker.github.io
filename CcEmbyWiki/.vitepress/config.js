@@ -9,7 +9,7 @@ export default {
         text: '起点站附属项目',
         items: [
           {
-            text: '起点机场',
+            text: '起点公益机场',
               link: 'https://vpn.28.al/#/login',
               target: '_blank'
           },
