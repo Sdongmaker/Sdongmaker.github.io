@@ -12,7 +12,7 @@ hero:
     tagline: 提供高速高清的流媒体服务，Emby 和 TG bot 求片，打造最佳观影体验
     image:
         # 首页右边的图片
-        src: /icons/起点.svg
+        src: /icons/测试.png
         # 图片的描述
         alt: avatar
         class: hero-image

@@ -1,6 +1,6 @@
 /* filepath: /Users/sdongmaker/VScode/wiki/CcEmbyWiki/.vitepress/styles.css */
 .hero-image {
-    background: linear-gradient(135deg, #ff7e5f, #feb47b);
+    background: radial-gradient(circle, #d2a679 10%, #fcefe3 80%);
     padding: 20px;
     border-radius: 50%;
     display: inline-block;

@@ -9,7 +9,8 @@ export default {
         items: [
           {
             text: '起点机场',
-            link: '/column/Travel/' // 表示docs/column/Travel/index.md
+              link: 'https://vpn.28.al/#/login',
+              target: '_blank'
           },
           {
             text: '起点私服',
