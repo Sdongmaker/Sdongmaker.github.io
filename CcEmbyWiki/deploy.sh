@@ -12,7 +12,7 @@ git add -A
 git commit -m 'deploy'
 
 # 强制推送到 gh-pages 分支
-git push -f https://github.com/Sdongmaker/Sdongmaker.github.io.git main:main
+git push -f https://github.com/Sdongmaker/Sdongmaker.github.io.git main:gh-pages
 
 # 返回到项目根目录
 cd -
