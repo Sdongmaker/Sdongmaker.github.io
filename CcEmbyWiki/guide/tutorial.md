@@ -39,7 +39,7 @@
 
 <details>
   <summary>公费发电</summary>
-  1. 发电链接：[发电](https://shop.startednow.org/)
+  1. 发电链接：<div src="https://shop.startednow.org">[发电]</div>
   <div style="text-align:center;">
     <img src="/assets/发电1.png" style="width:100%; max-width:600px;" />
   </div>

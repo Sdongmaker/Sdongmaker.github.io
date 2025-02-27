@@ -8,6 +8,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '立即订阅', link: 'https://shop.startednow.org' },
       {
         text: '起点站附属项目',
         items: [
@@ -49,5 +50,8 @@ export default defineConfig({
     search: {
       provider: 'local'
     }
-  }
+  },
+  head: [
+    ['link', { rel: 'stylesheet', href: '/custom.css' }]
+  ]
 })
