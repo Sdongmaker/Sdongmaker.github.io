@@ -45,7 +45,7 @@ export default defineConfig({
       ]
     },
     outline: {
-      label: '本页内容' // 修改 "On this page" 为中文
+      label: '本页目录' // 修改 "On this page" 为中文
     },
     search: {
       provider: 'local'
