@@ -1,7 +1,10 @@
-export default {
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
   title: '起点站 Wiki',
   description: '基于 VitePress 的 起点站 文档站点',
   base: '/',
+  lastUpdated: true,
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -10,8 +13,16 @@ export default {
         items: [
           {
             text: '起点公益机场',
-              link: 'https://vpn.28.al/#/login',
-              target: '_blank'
+            link: 'https://vpn.28.al/#/login',
+            target: '_blank'
+          },
+          {
+            text: '股东项目',
+            link: '/column/Growing/'
+          },
+          {
+            text: '服主养成计划',
+            link: '/column/Growing/'
           },
           {
             text: '起点私服',
@@ -22,8 +33,6 @@ export default {
     ],
     sidebar: {
       '/guide/': [
-        { text: '   ', link: '' },
-        { text: '   ', link: '' },
         { text: 'Emby 初体验', link: '/guide/emby-intro' },
         { text: '如何注册与保持', link: '/guide/registration' },
         { text: '使用教程', link: '/guide/tutorial' },
@@ -36,6 +45,9 @@ export default {
     },
     outline: {
       label: '本页内容' // 修改 "On this page" 为中文
+    },
+    search: {
+      provider: 'local'
     }
   }
-}
+})

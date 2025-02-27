@@ -1,12 +1,12 @@
-
 .VPImage {
   background: radial-gradient(circle, 
-  rgba(200, 170, 120, 0.4) 10%,    /* 深化的米黄色 */
-  rgba(230, 210, 180, 0.3) 20%,    /* 略深的浅米黄色 */
-  rgba(240, 220, 180, 0.2) 40%,    /* 稍深的米白色 */
-  rgba(250, 245, 220, 0.1) 60%,    /* 浅米白色 */
+  rgba(200, 170, 120, 0.4) 5%,     /* 深化的米黄色 */
+  rgba(230, 210, 180, 0.3) 15%,    /* 略深的浅米黄色 */
+  rgba(240, 220, 180, 0.2) 30%,    /* 稍深的米白色 */
+  rgba(250, 245, 220, 0.1) 50%,    /* 浅米白色 */
   rgba(255, 255, 255, 0) 100%);    /* 透明过渡 */
-padding: 20px;
-border-radius: 50%;
-display: inline-block;
+  background-blend-mode: screen;
+  padding: 20px;
+  border-radius: 50%;
+  display: inline-block;
 }

@@ -139,7 +139,7 @@
 
 <details>
   <summary>解禁账号</summary>
-  tg 群联系管理申述。
+  tg 群联系管理申诉。
 </details>
 
 ## 求片
