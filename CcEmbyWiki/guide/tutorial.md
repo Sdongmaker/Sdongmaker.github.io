@@ -39,7 +39,8 @@
 
 <details>
   <summary>公费发电</summary>
-  1. 发电链接：<div src="https://shop.startednow.org">[发电]</div>
+  
+  1. 发电链接：<a href="https://shop.startednow.org" target="_blank">[@发电]</a>
   <div style="text-align:center;">
     <img src="/assets/发电1.png" style="width:100%; max-width:600px;" />
   </div>
@@ -94,8 +95,11 @@
     <img src="/assets/个人信息1.png" style="width:100%; max-width:600px;" />
   </div>
   点播功能：
+
   1. 求片（响应快，入库快）
-  2. 下载（消耗积分下载）
+
+  2. 下载进度（查看下载进度，下载完成将无法查看。）
+
   <div style="text-align:center;">
     <img src="/assets/点播1.png" style="width:100%; max-width:600px;" />
   </div>
@@ -151,7 +155,7 @@
     <img src="/assets/求片1.png" style="width:100%; max-width:600px;" />
   </div>
   2. 网站求片
-  求片入口：[求片](https://create.startednow.org)
+    求片入口：<a href="https://create.startednow.org" target="_blank">[@求片]</a>
 </details>
 
 ## 客户端使用方法
@@ -169,6 +173,14 @@
   填写自己的账号密码点击 `登录` 按钮
   <div style="text-align:center;">
     <img src="/assets/客户端3.png" style="width:100%; max-width:600px;" />
+  </div>
+   1.确认自己使用的是什么协议的线路
+
+   2.https协议端口号填对应的
+
+   3.http协议的没写，就填80端口
+  <div style="text-align:center;">
+    <img src="/assets/客户端使用1.jpg" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
