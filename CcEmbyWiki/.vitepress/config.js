@@ -5,6 +5,8 @@ export default defineConfig({
   description: '基于 VitePress 的 起点站 文档站点',
   base: '/',
   lastUpdated: true,
+  cleanUrls: true, // 启用干净URL（可选）
+  ignoreDeadLinks: true, // 忽略无效链接警告
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
@@ -23,12 +25,12 @@ export default defineConfig({
           },
           {
             text: '服主养成计划',
-            link: '/column/Growing/'
+            link: '/project'
           },
           {
             text: '起点私服',
-            link: '/column/Growing/' // 表示docs/column/Growing/index.md
-          }
+            link: '/column/Growing/'
+          } // 表示docs/column/Growing/index.md
         ]
       },
     ],
