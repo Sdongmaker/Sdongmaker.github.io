@@ -1,6 +1,6 @@
 # 多端使用
 
-> 💡以下内容将介绍如何使用**起点站Emby**，须拥有起点站账号👉🏻**[账号注册](/Users/xu/Documents/起点站/账号注册.md)**
+> 💡以下内容将介绍如何使用**起点站Emby**，须拥有起点站账号👉🏻[**账号注册**](Register.md#账号注册)
 >
 > 此处以**macOS端**的**Senplayer**为例，进行使用过程演示。其余客户端操作类似。
 
@@ -8,11 +8,13 @@
 
 ![use1](/public/assets/use/UserGuide/use1.png)
 
-弹出窗口，在**主机**处填写从**Bot**那获取的**线路**，**端口**处填写**端口**，根据线路确定**https开关**是否打开，最后填写**[注册]()**时设置的**用户名**和**密码**，点击**保存**按钮。
+弹出窗口，在**主机**处填写从**Bot**那获取的**线路**，**端口**处填写**端口**，根据线路确定**https开关**是否打开，最后填写[**注册**](Register.md#账号注册)时设置的**用户名**和**密码**，点击**保存**按钮。
 
-​	👉🏻**[线路获取教程]()**
+​&nbsp;&nbsp;👉🏻[**线路获取教程**](Register.md#线路获取)
 
-<img src="/public/assets/use/UserGuide/use2.png" alt="use2" style="zoom: 40%;" />
+<div align="center">
+<img src="/public/assets/use/UserGuide/use2.png" alt="use2" width="40%" height="40%" />
+</div>
 
 点击**起点站**进行连接。
 
