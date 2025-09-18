@@ -24,11 +24,11 @@
 
 使用过程详见👉🏻**[多端使用]()**    👉🏻**[线路获取]()**
 
-<img src="/public/assets/use/QuickStart/fast1.png" alt="fast1" style="zoom: 30%;" />       <img src="/assets/use/QuickStart/fast2.png" alt="fast2" style="zoom: 30%;" />
+<img src="/public/assets/use/QuickStart/fast1.png" alt="fast1" style="zoom: 30%;" />       <img src="/public/assets/use/QuickStart/fast2.png" alt="fast2" style="zoom: 30%;" />
 
 #### 3️⃣连接观看
 
-![fast3](/assets/use/QuickStart/fast3.png)
+![fast3](/public/assets/use/QuickStart/fast3.png)
 
 ---
 
