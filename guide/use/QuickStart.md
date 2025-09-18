@@ -24,7 +24,9 @@
 
 使用过程详见👉🏻[**多端使用**](UserGuide.md)&nbsp;&nbsp;&nbsp;&nbsp;👉🏻[**线路获取**](Register.md#线路获取)
 
+<div align="center">
 <img src="/public/assets/use/QuickStart/fast1.png" alt="fast1" width="40%" height="40%" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="/public/assets/use/QuickStart/fast2.png" alt="fast2" width="40%" height="40%" />
+</div>
 
 #### 3️⃣连接观看
 
