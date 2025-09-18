@@ -22,7 +22,7 @@
 
 ## 购买
 
-⚡️**发电地址：**<https://shop.startednow.org/>
+⚡️**发电地址**：<https://shop.startednow.org/>
 
 点击**公费**，选择合适的进行想**下单**，第一次购买请选择**公费服30天注册码**。
 
@@ -50,7 +50,9 @@
 
 按照提示，输入发电地址复制的**续期码**，即可完成续期🤩
 
-<img src="/public/assets/use/Register/renewal2.png" alt="renewal2" style="zoom: 50%;" />
+<div align="center">
+<img src="/public/assets/use/Register/renewal2.png" alt="renewal2" width="50%" height="50%" />
+</div>
 
 ## 注册流程
 
@@ -70,13 +72,13 @@
 
 ![register3](/public/assets/use/Register/register3.png)
 
-注册成功😎提供的信息需要记住，供后续使用👉🏻**[多端使用]()**，若忘记线路👉🏻**[线路获取](#线路获取)**
+注册成功😎提供的信息需要记住，供后续使用👉🏻[**多端使用**](UserGuide.md)，若忘记线路👉🏻[**线路获取**](#线路获取)
 
 ⚠️**密码不是安全码**，密码可以在Bot处进行更改❗️
 
 ⚠️线路地址🈲泄漏❗️
 
-更多👉🏻**[注意事项]()**，请务必仔细浏览，防止违规操作，后果自负❗️
+更多👉🏻[**注意事项**]()，请务必仔细浏览，防止违规操作，后果自负❗️
 
 ![register4](/public/assets/use/Register/register4.png)
 
@@ -86,10 +88,10 @@
 
 ⚠️线路地址🈲泄漏❗️❗️❗️
 
-更多👉🏻**[注意事项]()**，请务必仔细浏览，防止违规操作，后果自负❗️
+更多👉🏻[**注意事项**]()，请务必仔细浏览，防止违规操作，后果自负❗️
 
 打开**Telegram**，公费服用户找到**起点站公费账户管理Bot**，公益服用户找到**起点站公益账户管理Bot**，点击**菜单** - **/start** - **服务器**。
 
 ![route1](/public/assets/use/Register/route1.png)
 
-选择合适的线路，将**线路及端口**信息记录下来，供后续使用。下一步👉🏻**[多端使用]()**
+选择合适的线路，将**线路及端口**信息记录下来，供后续使用。下一步👉🏻[**多端使用**](UserGuide.md)
