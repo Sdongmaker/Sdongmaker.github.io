@@ -24,7 +24,7 @@
 
 使用过程详见👉🏻**[多端使用]()**    👉🏻**[线路获取]()**
 
-<img src="/public/assets/use/QuickStart/fast1.png" alt="fast1" width="30%" height="30%" />       <img src="/public/assets/use/QuickStart/fast2.png" alt="fast2" width="30%" height="30%" />
+<img src="/public/assets/use/QuickStart/fast1.png" alt="fast1" width="50%" height="50%" />       <img src="/public/assets/use/QuickStart/fast2.png" alt="fast2" width="50%" height="50%" />
 
 #### 3️⃣连接观看
 
