@@ -26,19 +26,19 @@
 
 点击**公费**，选择合适的进行想**下单**，第一次购买请选择**公费服30天注册码**。
 
-![buy1](/Users/xu/Documents/起点站/pictures/buy1.png)
+![buy1](/public/assets/use/Register/buy1.png)
 
 输入**邮箱**，选择**支付方式**，点击**下单**并**付款**。
 
 ⚠️付款前注意看商品描述，避免错误购买，下单后不退不换❗️
 
-![buy2](/Users/xu/Documents/起点站/pictures/buy2.png)
+![buy2](/public/assets/use/Register/buy2.png)
 
 付款后会显示如下信息，点击**复制**。
 
 顶部**订单查询**通过订单号、邮箱、浏览器3种方式也可查询到如下信息。
 
-![buy3](/Users/xu/Documents/起点站/pictures/buy3.png)
+![buy3](/public/assets/use/Register/buy3.png)
 
 ## 续期
 
@@ -46,11 +46,11 @@
 
 打开**Telegram**，找到**起点站公费账户管理Bot**，点击**菜单** - **/start** - **使用续期码**。
 
-![renewal1](/Users/xu/Documents/起点站/pictures/renewal1.png)
+![renewal1](/public/assets/use/Register/renewal1.png)
 
 按照提示，输入发电地址复制的**续期码**，即可完成续期🤩
 
-<img src="/Users/xu/Documents/起点站/pictures/renewal2.png" alt="renewal2" style="zoom: 50%;" />
+<img src="/public/assets/use/Register/renewal2.png" alt="renewal2" style="zoom: 50%;" />
 
 ## 注册流程
 
@@ -60,15 +60,15 @@
 
 点击**菜单** - **/start** - **使用注册码**。
 
-![register1](/Users/xu/Documents/起点站/pictures/register1.png)
+![register1](/public/assets/use/Register/register1.png)
 
 根据提示信息，输入**注册码**，点击**发送**。
 
-![register2](/Users/xu/Documents/起点站/pictures/register2.png)
+![register2](/public/assets/use/Register/register2.png)
 
 点击**注册**，根据提示，输入**用户名**和**安全码**，点击**发送**。
 
-![register3](/Users/xu/Documents/起点站/pictures/register3.png)
+![register3](/public/assets/use/Register/register3.png)
 
 注册成功😎提供的信息需要记住，供后续使用👉🏻**[多端使用]()**，若忘记线路👉🏻**[线路获取](#线路获取)**
 
@@ -78,7 +78,7 @@
 
 更多👉🏻**[注意事项]()**，请务必仔细浏览，防止违规操作，后果自负❗️
 
-![register4](/Users/xu/Documents/起点站/pictures/register4.png)
+![register4](/public/assets/use/Register/register4.png)
 
 ## 线路获取
 
@@ -90,6 +90,6 @@
 
 打开**Telegram**，公费服用户找到**起点站公费账户管理Bot**，公益服用户找到**起点站公益账户管理Bot**，点击**菜单** - **/start** - **服务器**。
 
-![route1](/Users/xu/Documents/起点站/pictures/route1.png)
+![route1](/public/assets/use/Register/route1.png)
 
 选择合适的线路，将**线路及端口**信息记录下来，供后续使用。下一步👉🏻**[多端使用]()**
