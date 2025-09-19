@@ -22,7 +22,7 @@ export default defineConfig({
     // 页脚
     footer: {
       message: '基于 VitePress 构建',
-      copyright: 'Copyright © 2024 起点站'
+      copyright: `Copyright © 2024-${new Date().getFullYear()} 起点站`
     },
     
     // 编辑链接
