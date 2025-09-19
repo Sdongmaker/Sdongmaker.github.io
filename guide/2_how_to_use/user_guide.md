@@ -4,27 +4,27 @@
 >
 > 此处以**macOS端**的**Senplayer**为例，进行使用过程演示。其余客户端操作类似。
 
-📺 选择**服务器**，点击右上角“ **+** ”，选择“ **Emby** ”
+📺 选择**服务器**，点击右上角" **+** "，选择" **Emby** "
 
-![use1](/public/assets/use/UserGuide/use1.png)
+![use1](/assets/2_how_to_use/user_guide/use1.png)
 
 弹出窗口，在**主机**处填写从**Bot**那获取的**线路**，**端口**处填写**端口**，根据线路确定**https开关**是否打开，最后填写[**注册**](Register.md#账号注册)时设置的**用户名**和**密码**，点击**保存**按钮。
 
 ​&nbsp;&nbsp;👉🏻[**线路获取教程**](Register.md#线路获取)
 
 <div align="center">
-<img src="/public/assets/use/UserGuide/use2.png" alt="use2" width="40%" height="40%" />
+<img src="/assets/2_how_to_use/user_guide/use2.png" alt="use2" width="40%" height="40%" />
 </div>
 
 点击**起点站**进行连接。
 
 ⚠️若出现错误提示，请再次检查上一步信息填写是否有误。
 
-![use3](/public/assets/use/UserGuide/use3.png)
+![use3](/assets/2_how_to_use/user_guide/use3.png)
 
 连接成功！享受观影体验😎
 
-![use4](/public/assets/use/UserGuide/use4.png)
+![use4](/assets/2_how_to_use/user_guide/use4.png)
 
 ---
 
@@ -51,15 +51,15 @@
 
 |                          **Infuse**                          |                        **Senplayer**                         |                          **HamHub**                          |                         **Filebar**                          |                           **yybx**                           |                           **iemc**                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="/public/assets/use/UserGuide/infuse.png" alt="Infuse" width="50%"  />](https://apps.apple.com/cn/app/infuse/id1136220934) | [<img src="/public/assets/use/UserGuide/senplayer.png" alt="Senplayer" width="50%" />](https://apps.apple.com/cn/app/senplayer-%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-8%E5%80%8D%E9%80%9F/id6443975850) | [<img src="/public/assets/use/UserGuide/hamhub.png" alt="HamHub" width="50%" />](https://apps.apple.com/cn/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598) | [<img src="/public/assets/use/UserGuide/filebar.png" alt="Filebar" width="50%" />](https://apps.apple.com/cn/app/filebar/id1558391784) | [<img src="/public/assets/use/UserGuide/yybx.png" alt="yybx" width="50%" />](https://apps.apple.com/cn/app/yybx/id1519723194) | [<img src="/public/assets/use/UserGuide/iemc.png" alt="iemc" width="50%" />](https://apps.apple.com/cn/app/iemc/id1467462861) |
+| [<img src="/assets/2_how_to_use/user_guide/infuse.png" alt="Infuse" width="50%"  />](https://apps.apple.com/cn/app/infuse/id1136220934) | [<img src="/assets/2_how_to_use/user_guide/senplayer.png" alt="Senplayer" width="50%" />](https://apps.apple.com/cn/app/senplayer-%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-8%E5%80%8D%E9%80%9F/id6443975850) | [<img src="/assets/2_how_to_use/user_guide/hamhub.png" alt="HamHub" width="50%" />](https://apps.apple.com/cn/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598) | [<img src="/assets/2_how_to_use/user_guide/filebar.png" alt="Filebar" width="50%" />](https://apps.apple.com/cn/app/filebar/id1558391784) | [<img src="/assets/2_how_to_use/user_guide/yybx.png" alt="yybx" width="50%" />](https://apps.apple.com/cn/app/yybx/id1519723194) | [<img src="/assets/2_how_to_use/user_guide/iemc.png" alt="iemc" width="50%" />](https://apps.apple.com/cn/app/iemc/id1467462861) |
 |                         **Forward**                          |                                                              |                                                              |                                                              |                                                              |                                                              |
-| [<img src="/public/assets/use/UserGuide/forward.png" alt="Forward" width="50%" />](https://apps.apple.com/cn/app/forward-%E6%96%B0%E8%A7%86%E7%95%8C/id6503940939) |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [<img src="/assets/2_how_to_use/user_guide/forward.png" alt="Forward" width="50%" />](https://apps.apple.com/cn/app/forward-%E6%96%B0%E8%A7%86%E7%95%8C/id6503940939) |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 - ##### Android（点击图标前往下载⏬）
 
 |                          **Yamby**                           |                          **Hills**                           |                        **AGC Player**                        |                         **AfuseKt**                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="/public/assets/use/UserGuide/Yamby.png" alt="Yamby" width="30%" />](https://t.me/yamby_release) | [<img src="/public/assets/use/UserGuide/Hills.png" alt="Hills" width="30%" />](https://play.google.com/store/apps/details?id=com.mountains.hills&hl=zh) | [<img src="/public/assets/use/UserGuide/AGC Player.png" alt="AGC Player" width="30%" />](https://play.google.com/store/apps/details?id=com.agc.player) | [<img src="/public/assets/use/UserGuide/AfuseKt.png" alt="AfuseKt" width="30%" />](https://github.com/AttemptD/AfuseKt-release) |
+| [<img src="/assets/2_how_to_use/user_guide/Yamby.png" alt="Yamby" width="30%" />](https://t.me/yamby_release) | [<img src="/assets/2_how_to_use/user_guide/Hills.png" alt="Hills" width="30%" />](https://play.google.com/store/apps/details?id=com.mountains.hills&hl=zh) | [<img src="/assets/2_how_to_use/user_guide/AGC Player.png" alt="AGC Player" width="30%" />](https://play.google.com/store/apps/details?id=com.agc.player) | [<img src="/assets/2_how_to_use/user_guide/AfuseKt.png" alt="AfuseKt" width="30%" />](https://github.com/AttemptD/AfuseKt-release) |
 
 
 
@@ -69,15 +69,15 @@
 
 |                          **Infuse**                          |                        **Senplayer**                         |                          **HamHub**                          |                         **Filebar**                          |                           **yybx**                           |                           **iemc**                           |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="/public/assets/use/UserGuide/infuse.png" alt="Infuse" width="50%" />](https://apps.apple.com/cn/app/infuse/id1136220934) | [<img src="/public/assets/use/UserGuide/senplayer.png" alt="Senplayer" width="50%" />](https://apps.apple.com/cn/app/senplayer-%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-8%E5%80%8D%E9%80%9F/id6443975850) | [<img src="/public/assets/use/UserGuide/hamhub.png" alt="HamHub" width="50%" />](https://apps.apple.com/cn/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598) | [<img src="/public/assets/use/UserGuide/filebar.png" alt="Filebar" width="50%" />](https://apps.apple.com/cn/app/filebar/id1558391784) | [<img src="/public/assets/use/UserGuide/yybx.png" alt="yybx" width="50%" />](https://apps.apple.com/cn/app/yybx/id1519723194) | [<img src="/public/assets/use/UserGuide/iemc.png" alt="iemc" width="50%" />](https://apps.apple.com/cn/app/iemc/id1467462861) |
+| [<img src="/assets/2_how_to_use/user_guide/infuse.png" alt="Infuse" width="50%" />](https://apps.apple.com/cn/app/infuse/id1136220934) | [<img src="/assets/2_how_to_use/user_guide/senplayer.png" alt="Senplayer" width="50%" />](https://apps.apple.com/cn/app/senplayer-%E6%99%BA%E8%83%BD%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-8%E5%80%8D%E9%80%9F/id6443975850) | [<img src="/assets/2_how_to_use/user_guide/hamhub.png" alt="HamHub" width="50%" />](https://apps.apple.com/cn/app/hamhub-%E4%BD%A0%E7%9A%84%E7%A7%81%E4%BA%BA%E4%BA%91%E5%BD%B1%E4%B8%93%E5%AE%B6/id6458691598) | [<img src="/assets/2_how_to_use/user_guide/filebar.png" alt="Filebar" width="50%" />](https://apps.apple.com/cn/app/filebar/id1558391784) | [<img src="/assets/2_how_to_use/user_guide/yybx.png" alt="yybx" width="50%" />](https://apps.apple.com/cn/app/yybx/id1519723194) | [<img src="/assets/2_how_to_use/user_guide/iemc.png" alt="iemc" width="50%" />](https://apps.apple.com/cn/app/iemc/id1467462861) |
 |                         **Forward**                          |                                                              |                                                              |                                                              |                                                              |                                                              |
-| [<img src="/public/assets/use/UserGuide/forward.png" alt="Forward" width="50%" />](https://apps.apple.com/cn/app/forward-%E6%96%B0%E8%A7%86%E7%95%8C/id6503940939) |                                                              |                                                              |                                                              |                                                              |                                                              |
+| [<img src="/assets/2_how_to_use/user_guide/forward.png" alt="Forward" width="50%" />](https://apps.apple.com/cn/app/forward-%E6%96%B0%E8%A7%86%E7%95%8C/id6503940939) |                                                              |                                                              |                                                              |                                                              |                                                              |
 
 - ##### Windows（点击图标前往下载⏬）
 
 |                      **Emby官方客户端**                      |                         **Tsukimi**                          |                          **Hills**                           |                         **小幻影视**                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="/public/assets/use/UserGuide/Emby.png" alt="Emby" width="30%" />](https://emby.media/emby-for-windows.html) | [<img src="/public/assets/use/UserGuide/Tsukimi.png" alt="Tsukimi" width="30%" />](https://github.com/tsukinaha/tsukimi?tab=readme-ov-file) | [<img src="/public/assets/use/UserGuide/Hills.png" alt="Hills" width="30%" />](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=zh-CN&gl=HK) | [<img src="/public/assets/use/UserGuide/xiaohuan.png" alt="xiaohuan" width="30%" />](https://apps.microsoft.com/detail/9nb0h051m4v4?hl=zh-CN&gl=HK) |
+| [<img src="/assets/2_how_to_use/user_guide/Emby.png" alt="Emby" width="30%" />](https://emby.media/emby-for-windows.html) | [<img src="/assets/2_how_to_use/user_guide/Tsukimi.png" alt="Tsukimi" width="30%" />](https://github.com/tsukinaha/tsukimi?tab=readme-ov-file) | [<img src="/assets/2_how_to_use/user_guide/Hills.png" alt="Hills" width="30%" />](https://apps.microsoft.com/detail/9nxnzfrllwzx?hl=zh-CN&gl=HK) | [<img src="/assets/2_how_to_use/user_guide/xiaohuan.png" alt="xiaohuan" width="30%" />](https://apps.microsoft.com/detail/9nb0h051m4v4?hl=zh-CN&gl=HK) |
 
 
 
@@ -87,11 +87,11 @@
 
 |                      **Emby官方客户端**                      |                          **Infuse**                          |                        **Senplayer**                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="/public/assets/use/UserGuide/Emby.png" alt="Emby" width="30%" /> | <img src="/public/assets/use/UserGuide/infuse.png" alt="Infuse" width="30%" /> | <img src="/public/assets/use/UserGuide/senplayer.png" alt="Senplayer" width="30%" /> |
+| <img src="/assets/2_how_to_use/user_guide/Emby.png" alt="Emby" width="30%" /> | <img src="/assets/2_how_to_use/user_guide/infuse.png" alt="Infuse" width="30%" /> | <img src="/assets/2_how_to_use/user_guide/senplayer.png" alt="Senplayer" width="30%" /> |
 
 - ##### Android TV（点击图标前往下载⏬）
 
 |                      **Emby官方客户端**                      |                          **Yamby**                           |                          **Hills**                           |                        **AGC Player**                        |                         **AfuseKt**                          |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [<img src="/public/assets/use/UserGuide/Emby.png" alt="Emby" width="30%" />](https://emby.media/emby-for-android-tv.html) | [<img src="/public/assets/use/UserGuide/Yamby.png" alt="Yamby" width="30%" />](https://t.me/yamby_release) | [<img src="/public/assets/use/UserGuide/Hills.png" alt="Hills" width="30%" />](https://play.google.com/store/apps/details?id=com.mountains.hills&hl=zh) | [<img src="/public/assets/use/UserGuide/AGC Player.png" alt="AGC Player" width="30%" />](https://agcplayer.com/) | [<img src="/public/assets/use/UserGuide/AfuseKt.png" alt="AfuseKt" width="30%" />](https://github.com/AttemptD/AfuseKt-release) |
+| [<img src="/assets/2_how_to_use/user_guide/Emby.png" alt="Emby" width="30%" />](https://emby.media/emby-for-android-tv.html) | [<img src="/assets/2_how_to_use/user_guide/Yamby.png" alt="Yamby" width="30%" />](https://t.me/yamby_release) | [<img src="/assets/2_how_to_use/user_guide/Hills.png" alt="Hills" width="30%" />](https://play.google.com/store/apps/details?id=com.mountains.hills&hl=zh) | [<img src="/assets/2_how_to_use/user_guide/AGC Player.png" alt="AGC Player" width="30%" />](https://agcplayer.com/) | [<img src="/assets/2_how_to_use/user_guide/AfuseKt.png" alt="AfuseKt" width="30%" />](https://github.com/AttemptD/AfuseKt-release) |
 
