@@ -15,11 +15,11 @@
 
 后续模块则是展示各分类的部分内容
 
-![introduction1](../images/2_how_to_use/3_basic_introduction/introduction1.png)
+![introduction1](../images/2-how-to-use/3-basic-introduction/introduction1.png)
 
 首页底部显示了目前起点站Emby的**资源数量**
 
-![introduction2](../images/2_how_to_use/3_basic_introduction/introduction2.png)
+![introduction2](../images/2-how-to-use/3-basic-introduction/introduction2.png)
 
 ### 🔍搜索 & 推荐
 
@@ -29,11 +29,11 @@
 
 未进行搜索时，下面呈现**推荐影视**
 
-![introduction3](../images/2_how_to_use/3_basic_introduction/introduction3.png)
+![introduction3](../images/2-how-to-use/3-basic-introduction/introduction3.png)
 
 输入**关键词**，显示搜索内容。
 
-![introduction4](../images/2_how_to_use/3_basic_introduction/introduction4.png)
+![introduction4](../images/2-how-to-use/3-basic-introduction/introduction4.png)
 
 ### ❤️收藏
 
@@ -41,7 +41,7 @@
 
 遇到喜欢的影片，收藏后，将会显示在**收藏页面**，便于观看。
 
-![introduction5](../images/2_how_to_use/3_basic_introduction/introduction5.png)
+![introduction5](../images/2-how-to-use/3-basic-introduction/introduction5.png)
 
 ### ✅影片信息
 
@@ -51,8 +51,8 @@
 
 可以进行**播放**，**收藏**，**选择剧集**等操作，下方展示了**演职人员**，**类似作品**，以及**相关信息**。
 
-![introduction6](../images/2_how_to_use/3_basic_introduction/introduction6.png)
+![introduction6](../images/2-how-to-use/3-basic-introduction/introduction6.png)
 
-![introduction7](../images/2_how_to_use/3_basic_introduction/introduction7.png)
+![introduction7](../images/2-how-to-use/3-basic-introduction/introduction7.png)
 
-![introduction8](../images/2_how_to_use/3_basic_introduction/introduction8.png)
+![introduction8](../images/2-how-to-use/3-basic-introduction/introduction8.png)
