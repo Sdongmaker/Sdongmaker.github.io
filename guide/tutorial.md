@@ -5,20 +5,20 @@
 <details>
   <summary>公益服注册码使用方法</summary>
   <div style="text-align:center;">
-    <img src="/assets/公益bot1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益bot1.png" style="width:100%; max-width:600px;" />
   </div>
   点击使用注册码
   <div style="text-align:center;">
-    <img src="/assets/公益服注册码.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益服注册码.png" style="width:100%; max-width:600px;" />
   </div>
   <div style="text-align:center;">
-    <img src="/assets/公益注册.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益注册.png" style="width:100%; max-width:600px;" />
   </div>
   <div style="text-align:center;">
-    <img src="/assets/公益注册2.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益注册2.png" style="width:100%; max-width:600px;" />
   </div>
   <div style="text-align:center;">
-    <img src="/assets/公益注册成功.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益注册成功.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -27,11 +27,11 @@
 <details>
   <summary>公益bot使用方法</summary>
   <div style="text-align:center;">
-    <img src="/assets/公益bot功能.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益bot功能.png" style="width:100%; max-width:600px;" />
   </div>
   公益bot兑换功能：
   <div style="text-align:center;">
-    <img src="/assets/公益兑换.png" style="width:100%; max-width:600px;" />
+    <img src="./images/公益兑换.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -42,17 +42,17 @@
   
   1. 发电链接：<a href="https://shop.startednow.org" target="_blank">[@发电]</a>
   <div style="text-align:center;">
-    <img src="/assets/发电1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/发电1.png" style="width:100%; max-width:600px;" />
   </div>
   <div style="text-align:center;">
-    <img src="/assets/发电2.png" style="width:100%; max-width:600px;" />
+    <img src="./images/发电2.png" style="width:100%; max-width:600px;" />
   </div>
   <div style="text-align:center;">
-    <img src="/assets/发电3.png" style="width:100%; max-width:600px;" />
+    <img src="./images/发电3.png" style="width:100%; max-width:600px;" />
   </div>
   点击复制
   <div style="text-align:center;">
-    <img src="/assets/发电4.png" style="width:100%; max-width:600px;" />
+    <img src="./images/发电4.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -61,10 +61,10 @@
 <details>
   <summary>订单查询</summary>
   <div style="text-align:center;">
-    <img src="/assets/订单查询1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/订单查询1.png" style="width:100%; max-width:600px;" />
   </div>
   <div style="text-align:center;">
-    <img src="/assets/订单查询2.png" style="width:100%; max-width:600px;" />
+    <img src="./images/订单查询2.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -74,16 +74,16 @@
   <summary>发电后使用教程</summary>
   打开 tg 收藏
   <div style="text-align:center;">
-    <img src="/assets/使用1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/使用1.png" style="width:100%; max-width:600px;" />
   </div>
   将复制的链接发给收藏
   点击发出去的链接
   <div style="text-align:center;">
-    <img src="/assets/使用2.png" style="width:100%; max-width:600px;" />
+    <img src="./images/使用2.png" style="width:100%; max-width:600px;" />
   </div>
   点击 `/start` 使用
   <div style="text-align:center;">
-    <img src="/assets/使用3.png" style="width:100%; max-width:600px;" />
+    <img src="./images/使用3.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -92,7 +92,7 @@
 <details>
   <summary>查看账号信息</summary>
   <div style="text-align:center;">
-    <img src="/assets/个人信息1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/个人信息1.png" style="width:100%; max-width:600px;" />
   </div>
   点播功能：
 
@@ -101,7 +101,7 @@
   2. 下载进度（查看下载进度，下载完成将无法查看。）
 
   <div style="text-align:center;">
-    <img src="/assets/点播1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/点播1.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -111,7 +111,7 @@
   <summary>获取线路信息</summary>
   线路和端口对应，cdn 国内更快。
   <div style="text-align:center;">
-    <img src="/assets/线路1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/线路1.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -121,7 +121,7 @@
   <summary>更换线路</summary>
   线路任选
   <div style="text-align:center;">
-    <img src="/assets/线路1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/线路1.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -131,11 +131,11 @@
   <summary>修改密码</summary>
   1.
   <div style="text-align:center;">
-    <img src="/assets/密码1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/密码1.png" style="width:100%; max-width:600px;" />
   </div>
   2.
   <div style="text-align:center;">
-    <img src="/assets/密码2.png" style="width:100%; max-width:600px;" />
+    <img src="./images/密码2.png" style="width:100%; max-width:600px;" />
   </div>
 </details>
 
@@ -152,7 +152,7 @@
   <summary>求片</summary>
   1. 机器人求片（在公费 bot 点播功能中）
   <div style="text-align:center;">
-    <img src="/assets/求片1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/求片1.png" style="width:100%; max-width:600px;" />
   </div>
   2. 网站求片
     求片入口：<a href="https://create.startednow.org" target="_blank">[@求片]</a>
@@ -164,15 +164,15 @@
   <summary>客户端使用方法</summary>
   打开 Emby，点击 `跳过` 按钮，我们手动连接服务器
   <div style="text-align:center;">
-    <img src="/assets/客户端1.png" style="width:100%; max-width:600px;" />
+    <img src="./images/客户端1.png" style="width:100%; max-width:600px;" />
   </div>
   填写机器人给你的地址和端口号，然后点击 `连接` 按钮
   <div style="text-align:center;">
-    <img src="/assets/客户端2.png" style="width:100%; max-width:600px;" />
+    <img src="./images/客户端2.png" style="width:100%; max-width:600px;" />
   </div>
   填写自己的账号密码点击 `登录` 按钮
   <div style="text-align:center;">
-    <img src="/assets/客户端3.png" style="width:100%; max-width:600px;" />
+    <img src="./images/客户端3.png" style="width:100%; max-width:600px;" />
   </div>
    1.确认自己使用的是什么协议的线路
 
@@ -180,7 +180,7 @@
 
    3.http协议的没写，就填80端口
   <div style="text-align:center;">
-    <img src="/assets/客户端使用1.jpg" style="width:100%; max-width:600px;" />
+    <img src="./images/客户端使用1.jpg" style="width:100%; max-width:600px;" />
   </div>
 </details>
 

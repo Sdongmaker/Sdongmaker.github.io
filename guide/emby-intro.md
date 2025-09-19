@@ -3,7 +3,7 @@ title: Emby 初体验
 ---
 
 <div style="width: 100%; height: 300px; overflow: hidden; margin-bottom: 20px;">
-    <img src="/assets/2.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="./images/2.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
 # ☕ Emby 初体验

@@ -11,7 +11,7 @@
 3. **多维度内容组织** 除类型分类外，系统还支持通过“搜索”“收藏”等功能快速查找或标记感兴趣的内容。
 4. **个性化推荐与记录** 内置“记录”与“收藏”功能，可保存用户的观看历史与偏好，为后续推荐提供数据支持。
 
-![srdtfytguyhiuj](/assets/2_how_to_use/usage_tips/srdtfytguyhiuj.png)
+![srdtfytguyhiuj](../images/2_how_to_use/usage_tips/srdtfytguyhiuj.png)
 
 
 
@@ -28,9 +28,9 @@ Emby 中文搜索默认触发条件为 **2个及以上中文字符**，仅输入
 - ✅ 正确示例：搜索《流浪地球》，输入“流浪”“地球”或“流浪地球”均可触发匹配；
 - ❌ 错误示例：仅输入“流”“球”等单字，搜索框无结果反馈。
 
-![b545e2da-9529-4234-905d-a59951d81fe9](/assets/2_how_to_use/usage_tips/b545e2da-9529-4234-905d-a59951d81fe9.png)
+![b545e2da-9529-4234-905d-a59951d81fe9](../images/2_how_to_use/usage_tips/b545e2da-9529-4234-905d-a59951d81fe9.png)
 
-![e9515580-55d4-46f1-91a5-0c3f0e0fca62](/assets/2_how_to_use/usage_tips/e9515580-55d4-46f1-91a5-0c3f0e0fca62.png)
+![e9515580-55d4-46f1-91a5-0c3f0e0fca62](../images/2_how_to_use/usage_tips/e9515580-55d4-46f1-91a5-0c3f0e0fca62.png)
 
 ## 中文搜索无结果？试试这些进阶方案
 
@@ -43,7 +43,7 @@ Emby 中文搜索默认触发条件为 **2个及以上中文字符**，仅输入
 - 示例：搜索电影《Inception》，中文“盗梦空间”无结果时，输入英文“Inception”即可精准匹配；
 - 提示：源语言可参考资源原产国（如日语、韩语、法语等），可通过豆瓣、IMDb 提前确认原片名。
 
-![e9df278b-75ae-48ef-92a0-1378d663ad13](/assets/2_how_to_use/usage_tips/e9df278b-75ae-48ef-92a0-1378d663ad13.png)
+![e9df278b-75ae-48ef-92a0-1378d663ad13](../images/2_how_to_use/usage_tips/e9df278b-75ae-48ef-92a0-1378d663ad13.png)
 
 ### 方案2：尝试繁体中文关键字
 

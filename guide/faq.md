@@ -2,7 +2,7 @@
 title: 常见问题
 ---
 <div style="width: 100%; height: 300px; overflow: hidden; margin-bottom: 20px;">
-    <img src="/assets/6.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="./images/6.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
 # 📺 起点站 Emby 问题解决指南（Troubleshooting）

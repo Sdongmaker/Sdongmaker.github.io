@@ -2,7 +2,7 @@
 title: 起点站使用禁忌
 ---
 <div style="width: 100%; height: 300px; overflow: hidden; margin-bottom: 20px;">
-    <img src="/assets/4.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="./images/4.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 <div style="text-align: center; font-size: 2em; font-weight: bold; color: #222;">
 ⚠
