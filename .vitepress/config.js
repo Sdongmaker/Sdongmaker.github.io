@@ -52,7 +52,7 @@ export default defineConfig({
           },
           {
             text: '关于起点站',
-            link: '/guide/about'
+            link: '/guide/5_about'
           }
         ]
       },
@@ -61,14 +61,11 @@ export default defineConfig({
     // 侧边栏
     sidebar: {
       '/guide/': [
-        { text: 'Emby 初体验', link: '/guide/emby-intro' },
-        { text: '如何注册与保持', link: '/guide/registration' },
-        { text: '使用教程', link: '/guide/tutorial' },
-        { text: '公益服使用条款', link: '/guide/terms' },
-        { text: 'Emby 客户端分享', link: '/guide/client-sharing' },
-        { text: '常见问题', link: '/guide/faq' },
-        { text: '隐私与安全', link: '/guide/privacy' },
-        { text: '关于 起点站', link: '/guide/about' }
+        { text: '1. 引言', link: '/guide/1_introduction' },
+        { text: '2. 快速入门', link: '/guide/2_how_to_use/quick_start' },
+        { text: '3. 常见使用问题', link: '/guide/3_faq' },
+        { text: '4. 联系与支持', link: '/guide/4_contact_and_support' },
+        { text: '5. 关于起点站', link: '/guide/5_about' }
       ]
     },
     

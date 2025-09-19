@@ -4,7 +4,7 @@
 - **登录方式**： 使用**起点站账号**登录平台
 - **移动端支持**： 手机/平板浏览器访问同一地址，界面自适应移动端 建议"添加到主屏幕"实现类APP体验
 
-![a042c6fd0d248ace0a82dfca7fd0245f](../images/2_how_to_use/movie_request/a042c6fd0d248ace0a82dfca7fd0245f.png)
+![a042c6fd0d248ace0a82dfca7fd0245f](../images/2_how_to_use/6_movie_request/a042c6fd0d248ace0a82dfca7fd0245f.png)
 
 ------
 
@@ -13,7 +13,7 @@
 - **首页推荐**： "最新添加"：媒体库中新入库的影视 "热门电影/剧集"：根据平台数据推荐的热门内容 "即将上映"：即将发布的新片/新剧提醒
 - **分类探索**： 通过"探索"页按类型（动作、科幻）、评分或年份筛选
 
-![7649f733291c966fb039dc8a4c438fda](../images/2_how_to_use/movie_request/7649f733291c966fb039dc8a4c438fda.png)
+![7649f733291c966fb039dc8a4c438fda](../images/2_how_to_use/6_movie_request/7649f733291c966fb039dc8a4c438fda.png)
 
 ------
 
@@ -22,9 +22,9 @@
 - **搜索影视**： 在首页搜索栏输入关键词（如电影名、剧集名），系统自动匹配资源
 - **提交请求**： 点击目标影视的"提交请求"按钮 **电影**：直接选择画质（如1080p、4K）和存储目录（默认由管理员预设） **剧集**：选择具体季数或单集，支持批量请求整季
 
-![c5ad63cfe0628373a31c46e7903bfac1](../images/2_how_to_use/movie_request/c5ad63cfe0628373a31c46e7903bfac1.png)
+![c5ad63cfe0628373a31c46e7903bfac1](../images/2_how_to_use/6_movie_request/c5ad63cfe0628373a31c46e7903bfac1.png)
 
-![288a12313fd22b766fa40e01ec651271](../images/2_how_to_use/movie_request/288a12313fd22b766fa40e01ec651271.png)
+![288a12313fd22b766fa40e01ec651271](../images/2_how_to_use/6_movie_request/288a12313fd22b766fa40e01ec651271.png)
 
 ------
 
