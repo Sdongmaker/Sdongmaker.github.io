@@ -61,11 +61,11 @@ export default defineConfig({
     // 侧边栏
     sidebar: {
       '/guide/': [
-        { text: '1. 引言', link: '/guide/1-introduction' },
-        { text: '2. 快速入门', link: '/guide/2-how-to-use/1-quick-start' },
-        { text: '3. 常见使用问题', link: '/guide/3-faq' },
-        { text: '4. 联系与支持', link: '/guide/4-contact-and-support' },
-        { text: '5. 关于起点站', link: '/guide/5-about' }
+        { text: '1. 引言', link: '/guide/1-introduction/' },
+        { text: '2. 使用指南', link: '/guide/2-how-to-use/' },
+        { text: '3. 常见使用问题', link: '/guide/3-faq/' },
+        { text: '4. 联系与支持', link: '/guide/4-contact-and-support/' },
+        { text: '5. 关于起点站', link: '/guide/5-about/' }
       ]
     },
     

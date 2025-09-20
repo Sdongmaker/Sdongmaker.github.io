@@ -43,7 +43,7 @@ title: 起点站 Wiki
   <a href="./1-introduction" style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: bold;">
     📖 了解 Emby
   </a>
-  <a href="./2-how-to-use/1-quick-start" style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: bold;">
+  <a href="./2-how-to-use/" style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: bold;">
     🚀 快速体验
   </a>
   <a href="./2-how-to-use/2-register" style="flex: 1; min-width: 200px; padding: 15px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); color: white; text-decoration: none; border-radius: 8px; text-align: center; font-weight: bold;">
@@ -52,7 +52,7 @@ title: 起点站 Wiki
 </div>
 
 1. [引言](./1-introduction/) - 了解什么是 Emby 和起点站
-2. [快速开始](./2-how-to-use/1-quick-start) - 5分钟快速体验
+2. [快速开始](./2-how-to-use/) - 5分钟快速体验
 3. [账号注册详解](./2-how-to-use/2-register) - 详细注册流程
 
 ### ⚡ 快速上手（已有基础了解）
@@ -118,7 +118,7 @@ title: 起点站 Wiki
 ### 2. 快速入门
 **从注册到熟练使用的完整指南**
 
-#### 2.1 [快速开始](./2-how-to-use/1-quick-start)
+#### 2.1 [快速开始](./2-how-to-use/)
 - 新用户快速上手流程
 - 注册账号与连接观影的简明步骤
 

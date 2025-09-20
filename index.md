@@ -20,7 +20,7 @@ hero:
     actions:
     - theme: brand
       text: 立即体验
-      link: guide/2-how-to-use/1-quick-start
+      link: guide/2-how-to-use/
     - theme: alt
       text: 使用指南 (Beta 🚧) 
       link: /guide/
