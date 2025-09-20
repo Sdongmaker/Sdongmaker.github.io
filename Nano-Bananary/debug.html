@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>🍌 Violet Bananary 调试页面</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      :root {
+        --bg-primary: #ffffff;
+        --bg-secondary: #f3f4f6;
+        --text-primary: #111827;
+        --text-secondary: #4b5563;
+        --accent-primary: #FF96AC;
+      }
+      body {
+        background-color: var(--bg-primary);
+        color: var(--text-primary);
+        font-family: system-ui, -apple-system, sans-serif;
+      }
+    </style>
+  </head>
+  <body class="min-h-screen bg-white">
+    <div class="container mx-auto px-4 py-8">
+      <div class="text-center">
+        <h1 class="text-4xl font-bold mb-4">🍌 Violet Bananary</h1>
+        <h2 class="text-2xl text-gray-600 mb-8">香蕉超市｜ZHO</h2>
+        
+        <div class="bg-pink-100 border border-pink-300 rounded-lg p-6 mb-8">
+          <h3 class="text-xl font-semibold mb-4">🎉 部署成功！</h3>
+          <p class="text-gray-700 mb-4">
+            这是一个简化的测试页面，用于验证基本功能是否正常。
+          </p>
+          <div class="space-y-2 text-left">
+            <p>✅ HTML 加载正常</p>
+            <p>✅ CSS 样式正常</p>
+            <p>✅ 中文显示正常</p>
+            <p>✅ 浅色主题正常</p>
+          </div>
+        </div>
+
+        <div class="bg-blue-50 border border-blue-300 rounded-lg p-6">
+          <h3 class="text-lg font-semibold mb-2">🔧 如果主应用仍然黑屏：</h3>
+          <ol class="text-left space-y-2">
+            <li>1. 按 F12 打开开发者工具</li>
+            <li>2. 查看 Console 标签中的错误信息</li>
+            <li>3. 查看 Network 标签确认资源加载</li>
+            <li>4. 尝试硬刷新页面 (Ctrl+F5)</li>
+          </ol>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
