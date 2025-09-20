@@ -2,7 +2,7 @@
 title: 客户端分享
 ---
 <div style="width: 100%; height: 300px; overflow: hidden; margin-bottom: 20px;">
-    <img src="/assets/5.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
+    <img src="../images/5.jpg" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
 </div>
 
 # 📺客户端分享

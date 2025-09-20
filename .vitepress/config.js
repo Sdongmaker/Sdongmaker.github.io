@@ -22,7 +22,7 @@ export default defineConfig({
     // 页脚
     footer: {
       message: '基于 VitePress 构建',
-      copyright: 'Copyright © 2024 起点站'
+      copyright: `Copyright © 2024-${new Date().getFullYear()} 起点站`
     },
     
     // 编辑链接
@@ -52,7 +52,7 @@ export default defineConfig({
           },
           {
             text: '关于起点站',
-            link: '/guide/about'
+            link: '/guide/5-about'
           }
         ]
       },
@@ -61,14 +61,11 @@ export default defineConfig({
     // 侧边栏
     sidebar: {
       '/guide/': [
-        { text: 'Emby 初体验', link: '/guide/emby-intro' },
-        { text: '如何注册与保持', link: '/guide/registration' },
-        { text: '使用教程', link: '/guide/tutorial' },
-        { text: '公益服使用条款', link: '/guide/terms' },
-        { text: 'Emby 客户端分享', link: '/guide/client-sharing' },
-        { text: '常见问题', link: '/guide/faq' },
-        { text: '隐私与安全', link: '/guide/privacy' },
-        { text: '关于 起点站', link: '/guide/about' }
+        { text: '1. 引言', link: '/guide/1-introduction/' },
+        { text: '2. 使用指南', link: '/guide/2-how-to-use/' },
+        { text: '3. 常见使用问题', link: '/guide/3-faq/' },
+        { text: '4. 联系与支持', link: '/guide/4-contact-and-support/' },
+        { text: '5. 关于起点站', link: '/guide/5-about/' }
       ]
     },
     
