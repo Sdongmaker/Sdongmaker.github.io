@@ -36,4 +36,4 @@
 
 ### 🎦求片点播
 
-如果库里没有你想看的内容，可以通过[**求片地址**](https://create.startednow.org/)进行点播，点播流程详见👉🏻[**求片点播**]()
+如果库里没有你想看的内容，可以通过[**求片地址**](https://create.startednow.org/)进行点播，点播流程详见👉🏻[**求片点播**](6_movie_request.md)
