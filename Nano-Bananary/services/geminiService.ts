@@ -1,27 +1,32 @@
 import type { GeneratedContent } from '../types';
 
+const DEFAULT_PROXY_CONFIG = {
+  baseUrl: 'https://yqdkzwnuarth.eu-central-1.clawcloudrun.com',
+  apiKey: 'sk-chocokitty',
+  type: 'proxy' as const
+};
+
 // 获取当前 API 配置
 const getCurrentApiConfig = () => {
   try {
     const saved = localStorage.getItem('selectedApi');
     if (saved) {
       const config = JSON.parse(saved);
-      return {
-        baseUrl: config.baseUrl || 'https://yqdkzwnuarth.eu-central-1.clawcloudrun.com',
-        apiKey: config.apiKey || 'sk-chocokitty',
-        type: config.type || 'proxy'
-      };
+      // 基本验证
+      if (config && config.baseUrl && config.type) {
+        return {
+          baseUrl: config.baseUrl,
+          apiKey: config.apiKey || '', // apiKey 可以为空
+          type: config.type
+        };
+      }
     }
   } catch (e) {
     console.error('Failed to get API config from localStorage:', e);
   }
   
-  // 默认配置
-  return {
-    baseUrl: 'https://yqdkzwnuarth.eu-central-1.clawcloudrun.com',
-    apiKey: 'sk-chocokitty',
-    type: 'proxy'
-  };
+  // 如果本地存储中没有或无效，则返回默认配置
+  return DEFAULT_PROXY_CONFIG;
 };
 
 // 检查是否使用自定义 API 端点
@@ -84,12 +89,17 @@ async function callGeminiAPI(
       'Content-Type': 'application/json',
     };
 
-    // 根据API类型设置不同的认证头
-    if (config.type === 'official') {
+    const isGoogleEndpoint = config.baseUrl.includes('googleapis.com');
+
+    if (isGoogleEndpoint) {
+      if (!config.apiKey) {
+        throw new Error("API key is missing for Google API endpoint. Please configure it in the API settings.");
+      }
       headers['x-goog-api-key'] = config.apiKey;
     } else {
-      // 代理服务使用Authorization头
-      headers['Authorization'] = `Bearer ${config.apiKey}`;
+      if (config.apiKey) {
+        headers['Authorization'] = `Bearer ${config.apiKey}`;
+      }
     }
 
     const response = await fetch(`${config.baseUrl}/v1beta/models/gemini-2.5-flash-image-preview:generateContent`, {
@@ -197,11 +207,18 @@ export async function generateVideo(
         const headers: Record<string, string> = {
             'Content-Type': 'application/json',
         };
+        
+        const isGoogleEndpoint = config.baseUrl.includes('googleapis.com');
 
-        if (config.type === 'official') {
+        if (isGoogleEndpoint) {
+            if (!config.apiKey) {
+                throw new Error("API key is missing for Google API endpoint. Please configure it in the API settings.");
+            }
             headers['x-goog-api-key'] = config.apiKey;
         } else {
-            headers['Authorization'] = `Bearer ${config.apiKey}`;
+            if (config.apiKey) {
+                headers['Authorization'] = `Bearer ${config.apiKey}`;
+            }
         }
 
         const response = await fetch(`${config.baseUrl}/v1beta/models/veo-2.0-generate-001:generateVideos`, {
@@ -225,11 +242,17 @@ export async function generateVideo(
             await new Promise(resolve => setTimeout(resolve, 10000));
             
             const pollHeaders: Record<string, string> = {};
+            const isGoogleEndpoint = config.baseUrl.includes('googleapis.com');
             
-            if (config.type === 'official') {
+            if (isGoogleEndpoint) {
+                if (!config.apiKey) {
+                    throw new Error("API key is missing for Google API endpoint. Please configure it in the API settings.");
+                }
                 pollHeaders['x-goog-api-key'] = config.apiKey;
             } else {
-                pollHeaders['Authorization'] = `Bearer ${config.apiKey}`;
+                if (config.apiKey) {
+                    pollHeaders['Authorization'] = `Bearer ${config.apiKey}`;
+                }
             }
 
             const pollResponse = await fetch(`${config.baseUrl}/v1beta/operations/${operation.name}`, {
@@ -251,7 +274,8 @@ export async function generateVideo(
             throw new Error("Video generation completed, but no download link was found.");
         }
 
-        return config.type === 'official' ? `${downloadLink}&key=${config.apiKey}` : downloadLink;
+        const isGoogleEndpoint = config.baseUrl.includes('googleapis.com');
+        return isGoogleEndpoint ? `${downloadLink}?key=${config.apiKey}` : downloadLink;
 
     } catch (error) {
         console.error("Error calling Video Generation API:", error);
