@@ -1,11 +1,9 @@
 ---
 title: 起点站 Wiki
 ---
-<div style="width: 100%; height: 300px; overflow: hidden; margin-bottom: 20px;">
-    <img src="./images/1.png" alt="头部图片" style="width: 100%; height: auto; object-fit: cover;">
-</div>
-<div style="text-align: center; font-size: 3em; font-weight: bold; color: #222;">
-起点站指南🧭
+<div style="text-align: center; font-size: 3em; font-weight: bold; color: var(--vp-c-text-1); display: flex; align-items: center; justify-content: center; gap: 15px;">
+<img src="/icons/起点站.png" alt="起点站logo" style="width: 2em; height: 2em; object-fit: contain;" />
+起点站指南
 </div>
 
 ## 🚀 快速开始
@@ -31,8 +29,6 @@ title: 起点站 Wiki
 ::: tip 温馨提示
 求片登录账号可用公费或公益服登录，机器人也提供求片功能
 :::
-
----
 
 ## 🎯 推荐浏览路径
 
@@ -103,8 +99,6 @@ title: 起点站 Wiki
 
 1. [浏览与搜索技巧](./2-how-to-use/5-usage-tips) - 高效查找内容
 2. [求片与内容请求](./2-how-to-use/6-movie-request) - 请求你想看的内容
-
----
 
 ## 📚 完整指南目录
 

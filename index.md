@@ -20,9 +20,9 @@ hero:
     actions:
     - theme: brand
       text: 立即体验
-      link: guide/2-how-to-use/
+      link: guide/2-how-to-use/index.md#快速入门
     - theme: alt
-      text: 使用指南 (Beta 🚧) 
+      text: 使用指南 (Beta) 
       link: /guide/
 # 按钮下方的描述
 features:
@@ -42,5 +42,3 @@ features:
   #   title: 斜杠青年精神
   #   details: 
   #   link: 
-
----
