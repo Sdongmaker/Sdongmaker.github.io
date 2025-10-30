@@ -34,9 +34,15 @@
 
 付款后会显示如下信息，点击**复制**。
 
-顶部**订单查询**通过订单号、邮箱、浏览器3种方式也可查询到如下信息。
+## 查询
 
-![buy3](../images/2-how-to-use/2-register/buy3.png)
+🔍**查询地址**：<https://shop.startednow.org/order-search>
+
+可以通过**订单号、邮箱号、浏览器缓存**进行查询。
+
+![buy4](../images/2-how-to-use/2-register/buy3.png)
+点击查询后可得到相应的详细信息。
+![buy5](../images/2-how-to-use/2-register/buy4.png)
 
 ## 续期
 
